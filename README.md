@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E7CFFA8&vCenter=true&width=435&lines=Hello%2C+%F0%9F%91%8B+I'm+Suji!+">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E7CFFA8&vCenter=true&width=435&lines=Hello%2C+%F0%9F%91%8B+I'm+SUJI!+">
 </h1>
 
 Welcome to my GitHub profile!  
@@ -21,8 +21,8 @@ I love creating seamless user experiences and exploring modern web technologies.
 - 🏆 **Problem Solver & Tech Enthusiast**  
 - 📖 **Currently Learning**: Advanced JavaScript & Backend Development  
 - 📫 How to reach me : <br>
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suji26262@gmail.com) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vsuji)
 
 ---
 
