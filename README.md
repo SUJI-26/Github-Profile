@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  Welcome to my GitHub profile!  
-  I'm a <b>Full Stack Developer</b> passionate about building interactive and scalable web applications.  
-  With expertise in <b>HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB</b>, and more.  
+  Welcome to my GitHub profile! <br><br>
+  I'm a <b>Full Stack Developer</b> passionate about building interactive and scalable web applications. <br><br>
+  With expertise in <b>HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB</b>, and more. <br><br>
   I love creating seamless user experiences and exploring modern web technologies. 🚀
 </p>
 
