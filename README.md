@@ -37,10 +37,5 @@ I love creating seamless user experiences and exploring modern web technologies.
 
 ---
 
-## 📊 GitHub Stats  
-
-![Suji's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=green&show_icons=true&&hide=issues,contribs)
-
----
 
 ✨ Feel free to explore my repositories and connect with me!
